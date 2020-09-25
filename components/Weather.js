@@ -52,13 +52,7 @@ const styles = StyleSheet.create({
         width: '100%',
         height: '100%'
     },
-    cover: {
-        backgroundColor: 'black',
-        width: '100%',
-        height: 250,
-        opacity: 0.4,
-        alignItems: 'center',
-    },
+    
     medium: {
         marginTop: 32,
         fontSize: 15,
